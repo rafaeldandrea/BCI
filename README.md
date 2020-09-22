@@ -1,2 +1,10 @@
 # BCI
-Barro Colorado Island data
+Barro Colorado Island abundance data
+
+The 50-hectare plot at Barro Colorado Island, Panama, is a 1000 meter by 500 meter rectangle of forest inside of which all woody trees and shrubs with stems at least 1 cm in stem diameter have been censused. Every individual tree in the 50 hectares was permanently numbered with an aluminum tag in 1982, and every individual has been revisited six times since (in 1985, 1990, 1995, 2000, 2005, and 2010). In each census, every tree was measured, mapped and identified to species. Details of the census method are presented in Condit (Tropical forest census plots: Methods and results from Barro Colorado Island, Panama and a comparison with other plots; Springer-Verlag, 1998), and a description of the seven-census results in Condit, Chisholm, and Hubbell (Thirty years of forest census at Barro Colorado and the Importance of Immigration in maintaining diversity; PLoS ONE, 7:e49826, 2012).
+
+CITATION TO DATABASE: Condit, R., Lao, S., Pérez, R., Dolins, S.B., Foster, R.B. Hubbell, S.P. 2012. Barro Colorado Forest Census Plot Data, 2012 Version. DOI http://dx.doi.org/10.5479/data.bci.20130603
+ 
+CO-AUTHORS: Stephen Hubbell and Richard Condit have been principal investigators of the project for over 30 years. They are fully responsible for the field methods and data quality. As such, both request that data users contact them and invite them to be co-authors on publications relying on the data. More recent versions of the data, often with important updates, can be requested directly from R. Condit (conditr@gmail.com).
+ 
+ACKNOWLEDGMENTS: The following should be acknowledged in publications for contributions to the 50-ha plot project: R. Foster as plot founder and the first botanist able to identify so many trees in a diverse forest; R. Pérez and S. Aguilar for species identification; S. Lao for data management; S. Dolins for database design; plus hundreds of field workers for the census work, now over 2 million tree measurements; the National Science Foundation, Smithsonian Tropical Research Institute, and MacArthur Foundation for the bulk of the financial support.
